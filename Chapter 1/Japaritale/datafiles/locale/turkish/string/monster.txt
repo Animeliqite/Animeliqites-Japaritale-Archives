@@ -1,0 +1,78 @@
+"cutscene.beginning.question.0"	"* Birkaç metre uzaklıkta& bir figür görüyorum."
+"cutscene.beginning.question.1"	"* Korkuyorum ama bunun bir& işareti olduğundan eminim."
+"cutscene.beginning.question.2"	"* Yakınlaşmaktan başka bir& seçeneğim yok."
+
+"monster.cellien_small.overworld_dialog.0"	"* İyi günler, ARKADAŞ!"
+"monster.cellien_small.overworld_dialog.1"	"* Senin gibileri göreli&  çok ama çok uzun bir&  zaman oldu!"
+"monster.cellien_small.overworld_dialog.2"	"* Görüyorum ki yanlızsın da.&* Bilgili birisini bulmak&  için etrafta dolanıyorsun."
+"monster.cellien_small.overworld_dialog.3"	"* O korkmuş yüzünü değiştirme&  zamanın geldi ama!"
+"monster.cellien_small.overworld_dialog.4"	"* Önünde bir şans var."
+"monster.cellien_small.overworld_dialog.5"	"* Bu yüzden izin ver sana&  bir sürü bilgi vereyim."
+
+"monster.cellien_small.battle_dialog.0"	"{event 2}Bu IŞILTI senin özün!&Birinin en nadir, ama&en şanslı özelliği."
+"monster.cellien_small.battle_dialog.1"	"{event 2}Sadece basit bir ruhtan&daha fazlası, mutluluk&ve neşe!"
+"monster.cellien_small.battle_dialog.2"	"{event 1}En içteki düşüncelerin&ve duyguların...&bu ve çok daha fazlası."
+"monster.cellien_small.battle_dialog.3"	"{event 2}İşte bu {color_text `blue`}IŞILTININ{color_text `black`} tanımı!&Soyut, eşsiz ve&kesinlikle&değiştirilemez."
+"monster.cellien_small.battle_dialog.4"	"{event 3}Bu tanımlanamaz&değerliliğin, her ne&kadar... hayatta kalma&şansını düşürse de..."
+"monster.cellien_small.battle_dialog.5"	"{event 1}Hayatta kalmanın sebebi&de zaten bu."
+"monster.cellien_small.battle_dialog.6"	"{event 1}Her şeyden önce,&paniklemek en önemli&sorundur."
+"monster.cellien_small.battle_dialog.7"	"{event 2}Cesur olmak için elinden&geleni yap ki burada&patronun kim olduğunu&gösterebilesin."
+"monster.cellien_small.battle_dialog.8"	"{event 1}{event 10}İkincisi, YÖN TUŞLARI&ile RUHUNU hareket&ettir."
+"monster.cellien_small.battle_dialog.9"	"{event 1}Sana doğru gelen bu&beyaz renkli nesnelerden&kaç ve bu kadar!"
+"monster.cellien_small.battle_dialog.10"	"{event 2}İzin ver sana&bu beyazlığın ne&olduğunu göstereyim&o zaman."
+
+"monster.cellien_small.battle_dialog_dodge.0.0"	"{event 7}Senin gibi bir amatör&için oldukça şaşırtıcı!"
+"monster.cellien_small.battle_dialog_dodge.0.1"	"{event 4}Şimdi bir adım daha&ileri gidelim, olur mu?"
+
+"monster.cellien_small.battle_dialog_dodge.1.0"	"{event 2}Başlangıç şansı, ama&sorun değil!"
+"monster.cellien_small.battle_dialog_dodge.1.1"	"{event 4}Bu kadar hıza&dayanabilir misin peki?"
+
+"monster.cellien_small.battle_dialog_dodge.2.0"	"{event 4}BUNU atlatabilirsen&acemi olduğunu&söyleyemeyiz!"
+
+"monster.cellien_small.battle_dialog_collide.0.0"	"{event 7}Vay be!&Bu kadar salak olacağını&beklemiyordum."
+"monster.cellien_small.battle_dialog_collide.0.1"	"{event 4}Bunun olmasını&beklemiyordun değil mi?"
+"monster.cellien_small.battle_dialog_collide.0.2"	"{event 2}Vücudunun tir tir&titrediğini görebiliyorum!"
+"monster.cellien_small.battle_dialog_collide.0.3"	"{event 4}Aç bir yaratığı ölü&bırakacak kadar acımasız&değilsin, değil mi?"
+"monster.cellien_small.battle_dialog_collide.0.4"	"{event 1}Seni alt ettiğim için şahsen üzgünüm."
+
+"monster.cellien_small.battle_dialog_collide.1.0"	"{event 1}Şaşırdın mı? &Hatta birazcık?"
+"monster.cellien_small.battle_dialog_collide.1.1"	"{event 4}Özel bir şey kazandığını&söyleme!"
+"monster.cellien_small.battle_dialog_collide.1.2"	"{event 2}Çünkü ödülünün ölüm&olacağını bilmeyen bir&SALAKSIN sen."
+"monster.cellien_small.battle_dialog_collide.1.3"	"{event 5}Şimdiye kadar dost&olmuş olabiliriz, ama&her güzel şeyin sona&erdiğini bil yeter ki."
+"monster.cellien_small.battle_dialog_collide.1.4"	"{event 1}İşleri buraya getirdiğim&için özür dilerim."
+
+"monster.cellien_small.battle_dialog_threaten.0"	"Şimdi tadım zamanı!"
+
+"monster.cellien_small.battle_dialog_aftermath.0"	"{speed -1}NEDEN BİRİNİ DOĞRUDAN&ÖLDÜREMİYORUM!"
+"monster.cellien_small.battle_dialog_aftermath.1"	"{event 8}{speed -1}Bütün ırkımız sana bunun&bedelini ödetecek."
+"monster.cellien_small.battle_dialog_aftermath.2"	"{speed 4}GÖRECEKSİN... BİR GÜN!"
+
+"monster.cellien_big.act_option.check"	"* İncele"
+"monster.cellien_big.act_option.search"	"* Ara"
+"monster.cellien_big.act_option.instruct"	"* Yönlendir"
+"monster.cellien_big.act_option.plan"	"* Strateji"
+
+"monster.cellien_big.battle_check.0"	"* CELLIEN - 3 AT 25 DF{w}&* Ortalığı mahveden tehditkâr&  bir tür."
+"monster.cellien_big.battle_check.1"	"* Dikkatini dağıtmak için&  bir yol bulmam şart."
+
+"monster.cellien_big.battle_plan.0"	"* Düşünmek için daha fazla&  zamana ihtiyacım var."
+"monster.cellien_big.battle_plan.1"	"* CELLIEN'ların zayıf noktalarının&  olduğunu hatırlamam önüme&  olası bir plan çizdirdi."
+"monster.cellien_big.battle_plan.2"	"* Sonunda bir ipucu!"
+"monster.cellien_big.battle_plan.3"	"* Hiç durmadan Hippo'nun&  ikimize verdiği&  tavsiyelerini düşündüm."
+"monster.cellien_big.battle_plan.4"	"* Yanına taş atmam gerektiği,&  böylece dikkatini dağıtmam&  gerektiği..."
+"monster.cellien_big.battle_plan.5"	"* Bunu hatırlamak&  bana tüm sorularımın&  cevaplandığını hissettirdi."
+
+"monster.cellien_big.battle_search.0"	"* Hiç vakit kaybetmeden&  hemen işe koyuldum."
+"monster.cellien_big.battle_search.1"	"* Birkaç taş, bir sopa&  ve garip bir kağıt aldım."
+"monster.cellien_big.battle_search.2"	"* Şüphesiz bir tanesi&  işe yarayacaktır."
+"monster.cellien_big.battle_search_fail.0"	"* Ama etrafta işime yarayacak&  başka bir şey yoktu."
+
+"monster.cellien_big.battle_instruct_fail.0"	"* Bunu yapabilmem için&  Serval'ın meşgul olmaması&  lazım."
+
+"monster.cellien_big.flavor_text.act_expand"	"* Eylemlerim genişliyor!"
+"monster.cellien_big.flavor_text.core_visible"	"* Çekirdek görünür durumda!"
+"monster.cellien_big.flavor_text.random.0"	"* Rüzgarın soğuk esintisi&  alanı çevreliyor."
+"monster.cellien_big.flavor_text.random.1"	"* CELLIEN doğrudan bize bakıyor."
+"monster.cellien_big.flavor_text.random.2"	"* Atmosfer korku ve&  ümitsizlikle dolup taşıyor."
+"monster.cellien_big.flavor_text.serval"	"* Miyav! Şimdi benim zafer zamanım!"
+

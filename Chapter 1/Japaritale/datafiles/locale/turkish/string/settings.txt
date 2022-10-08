@@ -1,0 +1,13 @@
+"settings.headers.0"				"Genel Ayarlar"
+"settings.option.0"				"Tam Ekran"
+"settings.option.1"				"Dil (Türkçe)"
+"settings.option.2"				"Müzik Ses Şiddeti"
+"settings.option.3"				"Diğer Ses Şiddeti"
+"settings.option.4"				"Azaltılmış Efektler"
+
+
+"settings.headers.1"				"Ekstra & Diğer"
+"settings.option.5"				"Çık"
+"settings.option.6"				"Bütün Veriyi Sil"
+"settings.option.7"				"Klavye Kontrolleri"
+"settings.option.8"				"GameJolt API"

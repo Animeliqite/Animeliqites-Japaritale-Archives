@@ -1,0 +1,52 @@
+"cutscene.zebra.greet.0"			"* Oh, merhaba..."
+"cutscene.zebra.greet.1"			"* Ah, benimle konuşmak&  mı istedin?"
+"cutscene.zebra.greet.2"			"* Tamam, olur!"
+
+"cutscene.zebra.conversation.0"			"Nereden başlayacağımı&bilmiyorum, ama..."
+"cutscene.zebra.conversation.1"			"Aa, sıradan konular o&zaman."
+"cutscene.zebra.conversation.2"			"Şey, aa, nasılsın?"
+"cutscene.zebra.conversation.3"			"İyi olduğuna sevindim..."
+"cutscene.zebra.conversation.4"			"Bu park çok güzel&bir yer değil mi?"
+"cutscene.zebra.conversation.5"			"Tabii tek yer olması&da dahil."
+"cutscene.zebra.conversation.6"			"CELLIEN'lar tarafından&harabelere dönmüş&olsa da..."
+"cutscene.zebra.conversation.7"			"Rahatımı bozmuyorum&ve pek umursamıyorum."
+"cutscene.zebra.conversation.8"			"Senin umudunu kırmak&istemem, ama..."
+"cutscene.zebra.conversation.9"			"Kendimizi korumayı&öğrenmeliyiz."
+
+"cutscene.zebra.conversation.3.alt"		"Oo... buna duyduğuma&üzüldüm..."
+"cutscene.zebra.conversation.4.alt"		"Ama buradaki atmosferin&ne kadar güzel&olduğunu düşün..."
+"cutscene.zebra.conversation.5.alt"		"Ve tabii ki de&buranın tek yer&olması da dahil..."
+"cutscene.zebra.conversation.6.alt"		"Ama sıkıntı yok!"
+"cutscene.zebra.conversation.7.alt"		"Rahatımı bozmuyorum&ve pek umursamıyorum."
+"cutscene.zebra.conversation.8.alt"		"Sen de bunu yapmalısın!"
+
+"cutscene.zebra.conversation.1.alt"		"Ah, dünyanın nasıl&bir yer olduğu o zaman."
+"cutscene.zebra.conversation.2.alt"		"Hiç kimse sana&CELLIEN'lar hakkında&birşey bahsetti mi?"
+
+"cutscene.zebra.conversation.3.alt.alt"		"O zaman... başka&şeyler ile ilgili&konuşalım."
+"cutscene.zebra.conversation.4.alt.alt"		"Bu adanın sadece&savan ile sınırlı&olmadığını biliyor muydun?"
+"cutscene.zebra.conversation.5.alt.alt"		"Ve tabii ki de&tek yer olduğu..."
+"cutscene.zebra.conversation.6.alt.alt"		"Birisi seni aramaya&çalışıyordu."
+"cutscene.zebra.conversation.7.alt.alt"		"Şapkasının çalındığını&söyledi, ve..."
+"cutscene.zebra.conversation.8.alt.alt"		"O kişinin yanlış anladığını&bilsek de..."
+"cutscene.zebra.conversation.9.alt.alt"		"Kendini korumaya bak."
+"cutscene.zebra.conversation.10.alt.alt"	"Sadece söylüyorum."
+
+"cutscene.zebra.conversation.3.alt.alt.alt"	"Oo... bu ölümcül&yaratıklar..."
+"cutscene.zebra.conversation.4.alt.alt.alt"	"Güçlü dişleri ve&korkutucu dokunaçları..."
+"cutscene.zebra.conversation.5.alt.alt.alt"	"Tabii onlar ölmeye&yatkın, ama..."
+"cutscene.zebra.conversation.6.alt.alt.alt"	"Seni öldürmeleri&daha olası."
+"cutscene.zebra.conversation.7.alt.alt.alt"	"Tamam, kendimi&kontrol etmem lazım."
+
+"cutscene.zebra.conversation.end.0"		"Şey, güzel bir&diyalog kurduk!"
+"cutscene.zebra.conversation.end.1"		"Çok arkadaşçıl&bir insana benziyorsun."
+"cutscene.zebra.conversation.end.2"		"Teşekkür ederim!&Utangaçlığımı giderdin..."
+
+"cutscene.zebra.conversation.answers.0"	"İyiyim"
+"cutscene.zebra.conversation.answers.1"	"Kafam karışık"
+
+"cutscene.zebra.conversation.answers.2"	"Sıradan konular"
+"cutscene.zebra.conversation.answers.3"	"Bu dünya"
+
+"cutscene.zebra.conversation.start"		"DİYALOG{w}  BAŞLASIN..."
+"cutscene.zebra.conversation.shyness_meter"	"UTANGAÇLIK YÜZDESİ"

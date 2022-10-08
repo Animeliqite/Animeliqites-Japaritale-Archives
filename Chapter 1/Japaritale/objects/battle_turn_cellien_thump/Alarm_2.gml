@@ -1,0 +1,2 @@
+audio_play_sound_on(global._gmu_emitter_sfx,snd_exclamation,0,false);
+Anim_Create(battle_enemy_cellien_big,"_eye_x_add",ANIM_TWEEN.SINE,ANIM_EASE.IN,0,(battle_soul.x > battle_board.x ? 20 : -20),5,0,-1,-1,ANIM_MODE.ONESHOT,true);

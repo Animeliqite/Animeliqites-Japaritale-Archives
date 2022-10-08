@@ -1,0 +1,33 @@
+"ui.menu.item"						"EŞYA"
+"ui.menu.item.use"					"KULLAN"
+"ui.menu.item.info"					"BİLGİ"
+"ui.menu.item.drop"					"AT"
+"ui.menu.stat"						"İSTK."
+"ui.menu.stat.0"					"\"{insert NAME}\"{space_y -1}&&{space_y 0}LV  {insert LV}&HP  {insert HP} / {insert HP_MAX}&&AT  {insert ATK} ({insert ATK_ITEM})&DF  {insert DEF} ({insert DEF_ITEM}){space_y -1}&&{space_y 0}WEAPON: {insert WEAPON}&ARMOR: {insert ARMOR}{space_y 4}&{space_y 0}GOLD: {insert GOLD}"
+"ui.menu.stat.1"					"EXP: {insert EXP}&NEXT: {insert EXP_NEXT}"
+"ui.menu.stat.2"					"{space_y -1}&&{space_y 0}&{space_y 4}&{space_y 0}KILLS: {insert KILLS}"
+"ui.menu.phone"						"TLFN."
+
+"ui.save.name.empty"				"[BOŞ]"
+"ui.save.save"						"Kaydet"
+"ui.save.menu"						"Ana Menü"
+"ui.save.return"					"Geri Dön"
+"ui.save.saved"						"Dosya Kaydedildi."
+
+"ui.box.inventory"					"ENVANTER"
+"ui.box.box"						"KUTU"
+"ui.box.finish"						"[X]'e basarak bitir"
+"ui.confirmation.yes"					"Evet"
+"ui.confirmation.no"					"Hayır"
+"ui.chapter_end"					"* Devam edecek."
+
+"api.gamejolt.username"					"Kullanıcı Adı"
+"api.gamejolt.gametoken"				"Oyun Token'ı"
+"api.gamejolt.disclaimer"				"Lütfen GameJolt kullanıcı adını\nve token'ınını gir."
+
+"api.gamejolt.fail"					"Bir hata oldu. Lütfen tekrar dene."
+"api.gamejolt.success"					"Zaten giriş yaptın!"
+
+"api.try_again"						"Yeniden Dene"
+"api.log_out"						"Hesaptan Çık"
+"api.exit"							"Çıkış"

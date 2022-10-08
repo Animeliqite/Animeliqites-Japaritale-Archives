@@ -1,0 +1,44 @@
+"dialogue.savannah.sign.mountain.0"	"* I start to read the sign&  no matter its dustiness.{end_ar}"
+"dialogue.savannah.sign.mountain.1"	"* If y u w nt to le rn n w&  th i gs re ar ing FR  NDS&  vi it th Jap r Li ra y.{end_ar}"
+"dialogue.savannah.sign.mountain.2"	"* Tak  th  bus f r eas er&  tra spor at on to th s ver y&  pl ce.{end_ar}"
+"dialogue.savannah.sign.mountain.3"	"* It's all hardly readable."
+
+"dialogue.savannah.save.lake.0"		"* An incoming battle with&  an annoying troublemaker...{end_ar}"
+"dialogue.savannah.save.lake.1"		"* Along with the sweetest&  victory both of us could&  taste at the end...{end_ar}"
+"dialogue.savannah.save.lake.2"		"* All this fills me with&  determination and hope.{pause}{end}"
+
+"dialogue.savannah.save.post_battle.lake.0"		"* Seeing the time pass by&  pretty quickly...{end_ar}"
+"dialogue.savannah.save.post_battle.lake.1"		"* And the urge to continue&  on my very journey...{end_ar}"
+"dialogue.savannah.save.post_battle.lake.2"		"* All this fills me with&  determination and hope.{end_ar}"
+"dialogue.savannah.save.post_battle.lake.3"		"* (All HP were recovered too.){pause}{end}"
+
+"dialogue.savannah.save.post_battle.0"		"* Serval and I finally&  seperated our paths to&  search for the JAPARI LIBRARY.{end_ar}"
+"dialogue.savannah.save.post_battle.1"		"* Although I'm not sure&  how I'm going to defend&  myself, I'm standing brave.{end_ar}"
+"dialogue.savannah.save.post_battle.2"		"* And this led my&  determination grow stronger.{end_ar}"
+"dialogue.savannah.save.post_battle.3"		"* (All HP were recovered too.){pause}{end}"
+
+"dialogue.savannah.post_conflict.tree"		"* She seems to be asleep.{w}&* Shouldn't bother her."
+
+"dialogue.savannah.post_conflict.toki.0.0"		"* Did you know?{w}&* SPARKLES are irreplaceable&  things stored inside us."
+"dialogue.savannah.post_conflict.toki.0.1"		"* If CELLIENS were to take&  them away, it'd be the same&  thing as if you'd not get&  your wishes granted."
+"dialogue.savannah.post_conflict.toki.0.2"		"* It's the same for emotions&  and determination in one's&  being."
+
+"dialogue.savannah.post_conflict.toki.1.0"		"* Maybe... I should wake&  everyone up this morning."
+"dialogue.savannah.post_conflict.toki.1.1"		"* I just hope they like my&  singing one day..."
+"dialogue.savannah.post_conflict.toki.1.2"		"* I'm determined not to make&  it annoying."
+
+"dialogue.savannah.post_conflict.starwalker.0.0"	"* The {color `yellow`}length of this demo{color `white`}&  is {color `yellow`}Pissing{color `white`} me off..."
+"dialogue.savannah.post_conflict.starwalker.0.1"	"* I'm the original   {color `yellow`}Starwalker{color `white`}"
+
+"dialogue.savannah.post_conflict.starwalker.1.0"	"* I'm not a {color `yellow`}Savepoint{color `white`} by the way"
+
+"dialogue.savannah.interaction.zebra.0.0"			"* If you're able to&  talk to me, others too&  have the same result."
+"dialogue.savannah.interaction.zebra.0.1"			"* Start with a warm&  greeting and other&  topics will come to you."
+
+"dialogue.savannah.interaction.zebra.1.0"			"* Hmm...{w}&* Perhaps I wasn't talking&  straight?"
+"dialogue.savannah.interaction.zebra.1.1"			"* Sometimes talking&  directly leads to&  available topics."
+"dialogue.savannah.interaction.zebra.1.2"			"* You should try this out!"
+
+"dialogue.savannah.interaction.zebra.2.0"			"* You can do it!"
+
+"dialogue.forcefield.0"						"* A magically-electrified&  forcefield is blocking the&  path."

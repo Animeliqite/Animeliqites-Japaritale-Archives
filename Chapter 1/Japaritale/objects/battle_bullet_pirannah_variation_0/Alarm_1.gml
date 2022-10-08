@@ -1,0 +1,1 @@
+audio_play_sound_on(global._gmu_emitter_sfx,snd_grab,0,false);

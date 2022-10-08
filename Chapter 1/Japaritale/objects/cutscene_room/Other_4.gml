@@ -1,0 +1,1 @@
+if(room==room_savannah_4) event_perform(ev_create,0);

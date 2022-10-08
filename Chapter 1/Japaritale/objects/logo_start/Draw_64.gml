@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_logo,0,320,240,2.5,2.5,0,c_white,_alpha);

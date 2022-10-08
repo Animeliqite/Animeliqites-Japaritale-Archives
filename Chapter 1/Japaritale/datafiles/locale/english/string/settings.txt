@@ -1,0 +1,12 @@
+"settings.headers.0"				"General Settings"
+"settings.option.0"				"Fullscreen"
+"settings.option.1"				"Language (English)"
+"settings.option.2"				"BGM Volume"
+"settings.option.3"				"SFX Volume"
+"settings.option.4"				"Low VFX"
+
+"settings.headers.1"				"Extras & Misc"
+"settings.option.5"				"Exit"
+"settings.option.6"				"Delete All Data"
+"settings.option.7"				"Keyboard Mapping"
+"settings.option.8"				"GameJolt API"

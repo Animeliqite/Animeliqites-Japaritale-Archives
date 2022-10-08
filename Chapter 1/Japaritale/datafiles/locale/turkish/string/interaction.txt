@@ -1,0 +1,44 @@
+"dialogue.savannah.sign.mountain.0"	"* Tozlu olmasına rağmen&  bu yazıyı okumaya başladım.{end_ar}"
+"dialogue.savannah.sign.mountain.1"	"* J p r   ü ü h n s   a k n a&  b l i e i m k i t y r a ı . .{end_ar}"
+"dialogue.savannah.sign.mountain.2"	"* O o ü ü k l a ı   e y l u u u &   e f n   ı a ı .{end_ar}"
+"dialogue.savannah.sign.mountain.3"	"* Çok zor okunuyor."
+
+"dialogue.savannah.save.lake.0"		"* Önümdeki büyük tehlike...{end_ar}"
+"dialogue.savannah.save.lake.1"		"* Ve sonunda tadını&  çıkaracağım bir kazanç...{end_ar}"
+"dialogue.savannah.save.lake.2"		"* Tüm bunlar beni azim&  ve umut ile dolduruyor.{pause}{end}"
+
+"dialogue.savannah.save.post_battle.0"		"* Serval and ben yollarımızı&  JAPARI KÜTÜPHANESİ için&  sonunda ayırdık.{end_ar}"
+"dialogue.savannah.save.post_battle.1"		"* Kendimi korumayı çok bilmesem&  de güçlü kalmaya&  çalışıyorum.{end_ar}"
+"dialogue.savannah.save.post_battle.2"		"* Tüm bunlar beni azim ile&  doldurdu.{end_ar}"
+"dialogue.savannah.save.post_battle.3"		"* (Bütün CANIM yenilendi.){pause}{end}"
+
+"dialogue.savannah.save.post_battle.lake.0"		"* Zamanın su gibi akıp&  geçtiğini görmek...{end_ar}"
+"dialogue.savannah.save.post_battle.lake.1"		"* Ve benim bu maceraya&  atılma isteğim...{end_ar}"
+"dialogue.savannah.save.post_battle.lake.2"		"* Tüm bunlar beni azim&  ve umut ile dolduruyor.{end_ar}"
+"dialogue.savannah.save.post_battle.lake.3"		"* (Bütün CANIM yenilendi.){pause}{end}"
+
+"dialogue.savannah.post_conflict.tree"		"* Sanırım uyuyor.{w}&* Rahatsız etmemeliyim."
+
+"dialogue.savannah.post_conflict.toki.0.0"		"* Biliyor muydun?{w}&* IŞILTILAR içimizde bulunan&  değiştirilemez şeyler."
+"dialogue.savannah.post_conflict.toki.0.1"		"* CELLIEN'lar bunları alacak&  olsaydı, isteklerimizin&  olmayacağı bir hâle bürünürdük."
+"dialogue.savannah.post_conflict.toki.0.2"		"* Duygularımız ve azimliliğimiz&  için de aynı şey geçerli."
+
+"dialogue.savannah.post_conflict.toki.1.0"		"* Belki... bu sabah herkesi&  uyandırmalıyım."
+"dialogue.savannah.post_conflict.toki.1.1"		"* Sadece umuyorum ki sesimi&  beğenirler..."
+"dialogue.savannah.post_conflict.toki.1.2"		"* Rahatsız edici olmamaya&  azimiliğimi ortaya koyuyorum."
+
+"dialogue.savannah.post_conflict.starwalker.0.0"	"* {color `yellow`}Bu demonun uzunluğu{color `white`}&  beni {color `yellow`}Sinir{color `white`} ediyor..."
+"dialogue.savannah.post_conflict.starwalker.0.1"	"* Ben orijinal   {color `yellow`}Starwalker{color `white`}'ım"
+
+"dialogue.savannah.post_conflict.starwalker.1.0"	"* {color `yellow`}Kayıt Noktası{color `white`} değilim bir de"
+
+"dialogue.savannah.interaction.zebra.0.0"			"* Eeğer benimle&  konuşabiliyorsan diğerleri&  de aynı tepkiyi verir."
+"dialogue.savannah.interaction.zebra.0.1"			"* Sıcak bir karşılama yap&  ve ondan sonra zaten&  gerisi gelir!"
+
+"dialogue.savannah.interaction.zebra.1.0"			"* Hmm...{w}&* Anlatamadım mı?"
+"dialogue.savannah.interaction.zebra.1.1"			"* Bazen direkt konuşmak&  konuşabileceğin konuları&  önüne serer."
+"dialogue.savannah.interaction.zebra.1.2"			"* Bence bunu denemelisin!"
+
+"dialogue.savannah.interaction.zebra.2.0"			"* Yapabilirsin!"
+
+"dialogue.forcefield.0"						"* Sihir ile elektriklenmiş&  bir bariyer geçmemi engelliyor."

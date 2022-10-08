@@ -1,0 +1,8 @@
+./sprite/battle_button_fight.ini
+./sprite/battle_button_fight_empty.ini
+./sprite/battle_button_fight_serval.ini
+./sprite/battle_button_act.ini
+./sprite/battle_button_item.ini
+./sprite/battle_button_item_empty.ini
+./sprite/battle_button_mercy.ini
+./sprite/ui_gameover.ini
