@@ -1,5 +1,5 @@
-<h1 align="center">Animeliqites KAPARITALE Archives</h1>
-<p align="center">All the Animeliqite &amp; Co's Japaritale source code archives in one repository.</p>
+<h1 align="center">Animeliqites JAPARITALE Archives</h1>
+<p align="center">All the Animeliqite &amp; Co's JAPARITALE source code archives in one repository.</p>
 
 <hr>
 
