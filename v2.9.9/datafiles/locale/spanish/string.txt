@@ -1,0 +1,16 @@
+./string/battle.txt
+./string/ui.txt
+./string/item.txt
+./string/menu.txt
+./string/font.txt
+./string/monster.txt
+./string/cutscenes_serval.txt
+./string/cutscenes_zebra.txt
+./string/interaction.txt
+./string/cutscenes_fennec.txt
+./string/cutscenes_plains.txt
+./string/settings.txt
+./string/setup.txt
+./string/intro.txt
+./string/disclaimer.txt
+./string/credits.txt

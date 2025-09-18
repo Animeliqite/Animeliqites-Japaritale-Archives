@@ -1,0 +1,1 @@
+direction = -_part_dir + random_range(-45, 45);

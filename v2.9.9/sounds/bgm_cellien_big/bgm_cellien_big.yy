@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_cellien_big",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":163.68202,
+  "name":"bgm_cellien_big",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Sounds/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_cellien_big.ogg",
+  "type":1,
+  "volume":1.0,
+}

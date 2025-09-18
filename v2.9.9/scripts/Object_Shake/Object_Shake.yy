@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Object_Shake",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Object_Shake",
+  "parent":{
+    "name":"Utils",
+    "path":"folders/Scripts/Utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

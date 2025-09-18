@@ -1,0 +1,38 @@
+{
+    "settings.extras.headers.0": "General Settings",
+    "settings.extras.headers.1": "Gamejolt API",
+
+    "settings.extras.source_code": "Source Code",
+    "settings.extras.dialogue_box_style": "Dialogue Box Style",
+    "settings.extras.gamejolt_api": "GameJolt API",
+    "settings.extras.credits": "Credits",
+    "settings.extras.delete_all_data": "Delete All Data",
+    "settings.extras.delete_all_data.confirm": "Are you sure?\nAll your data will be deleted!\n(The game will restart.)\n(Y/N)",
+    "settings.extras.exit": "Exit",
+
+    "settings.option.border.none": "None",
+    "settings.option.border.simple": "Simple",
+    "settings.option.border.rounded": "Rounded",
+    "settings.option.border.dynamic": "Dynamic",
+
+    "settings.option.press_a_key": "[[PRESS A KEY]]",
+    "settings.option.confirm_interact": "CONFIRM/INTERACT",
+    "settings.option.cancel_run": "CANCEL/RUN",
+    "settings.option.menu": "MENU",
+    "settings.option.left": "LEFT",
+    "settings.option.right": "RIGHT",
+    "settings.option.up": "UP",
+    "settings.option.down": "DOWN",
+    "settings.option.exit_to_settings": "Exit To Settings",
+
+    "settings.option.reduced_vfx": "Reduced VFX",
+    "settings.option.auto_sprint": "Auto-Sprint",
+    "settings.option.language": "Language (English)",
+    "settings.option.border": "Border",
+    "settings.option.bgm_volume": "Music Volume",
+    "settings.option.sfx_volume": "SFX Volume",
+    "settings.option.fullscreen": "Fullscreen",
+    "settings.option.keybind_config": "Keybind Configuration",
+    "settings.option.exit_to_file_selection": "Exit to File Selection"
+  
+  }

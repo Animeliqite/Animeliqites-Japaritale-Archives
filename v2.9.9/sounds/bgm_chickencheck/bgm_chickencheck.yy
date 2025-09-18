@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_chickencheck",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":54.857143,
+  "name":"bgm_chickencheck",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Sounds/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_chickencheck.ogg",
+  "type":1,
+  "volume":1.0,
+}

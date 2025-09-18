@@ -1,0 +1,123 @@
+"dialogue.savannah.sign.mountain.0"	"* Has empezado a leer este&  letrero sin importar que&  esta polvoriento.{end_ar}"
+"dialogue.savannah.sign.mountain.1"	"* Si t  q ie re  apr nde  a ora&  cos s  e AMIG S v sit  la&  Bi liot ca Jap r .{end_ar}"
+"dialogue.savannah.sign.mountain.2"	"* Tom   l aut bús p ra un&  tra spor at  m s fác l a es e&  m smo lu ar.{end_ar}"
+"dialogue.savannah.sign.mountain.3"	"* Es totalmente dificil de&  leer."
+
+"dialogue.savannah.save.lake.0"		"* Una batalla inminente con&  un alborotador molesto...{end_ar}"
+"dialogue.savannah.save.lake.1"		"* Junto con la victoria más&  dulce que ambos pudimos&  saborear al final...{end_ar}"
+"dialogue.savannah.save.lake.2"		"* Todo esto me llena de&  determinación y esperanza.{pause}{end}"
+
+"dialogue.savannah.save.post_battle.lake.0"		"* Ver el tiempo pasar&  bastante rápido...{end_ar}"
+"dialogue.savannah.save.post_battle.lake.1"		"* Y las ganas de seguir&  mi propio viaje...{end_ar}"
+"dialogue.savannah.save.post_battle.lake.2"		"* Todo esto me llena de&  determinación y esperanza.{end_ar}"
+"dialogue.savannah.save.post_battle.lake.3"		"* (Todo el HP también se&  recuperó.){pause}{end}"
+
+"dialogue.savannah.save.post_battle.0"		"{space_y -2}* Serval y yo finalmente&  separamos nuestros caminos&  para buscar la BIBLIOTECA&  JAPARI.{end_ar}"
+"dialogue.savannah.save.post_battle.1"		"{space_y 0}* Aunque no estoy segura&  de cómo voy a defenderme,&  soy valiente.{end_ar}"
+"dialogue.savannah.save.post_battle.2"		"* Y esto hizo que mi&  determinación se hiciera más&  fuerte.{end_ar}"
+"dialogue.savannah.save.post_battle.3"		"* (Todo el HP también se&  recuperó.){pause}{end}"
+
+"dialogue.savannah.post_conflict.tree"		"* Parece estar dormida.{w}&* No debería molestarla."
+
+"dialogue.savannah.post_conflict.toki.0.0"		"{space_y -2}* ¿Sabías que?{w}&* Los DESTELLOS son cosas&  irremplazables almacenadas&  dentro de nosotras."
+"dialogue.savannah.post_conflict.toki.0.1"		"{space_y 0}* Si CELLIENS se los quitara,&  sería lo mismo que si no&  consiguiera sus deseos."
+"dialogue.savannah.post_conflict.toki.0.2"		"* Es lo mismo para las emociones&  y la determinación&  en el propio ser."
+
+"dialogue.savannah.post_conflict.toki.1.0"		"* Tal vez... Debería despertar&  a todos esta mañana."
+"dialogue.savannah.post_conflict.toki.1.1"		"* Solo espero que les guste&  mi canto algún día..."
+"dialogue.savannah.post_conflict.toki.1.2"		"* Estoy determinada a no&  hacerlo molesto."
+
+"dialogue.savannah.post_conflict.starwalker.0.0"	"* La {color `yellow`}duración de esta demo{color `white`}&  me está {color `yellow`}Enojando{color `white`}..."
+"dialogue.savannah.post_conflict.starwalker.0.1"	"* Soy el original   {color `yellow`}Starwalker{color `white`}"
+
+"dialogue.savannah.post_conflict.starwalker.1.0"	"* No soy un {color `yellow`}Punto de Guardado{color `white`}&  por lo tanto"
+
+"dialogue.savannah.interaction.zebra.0.0"			"* ...estoy un poco emocionada...{w}&* ...muy emocionada...{w}&* ...y bueno..."
+"dialogue.savannah.interaction.zebra.0.1"			"* Ninguna cantidad de entusiasmo&  cambiará el hecho de que&  las personas tienen límites."
+"dialogue.savannah.interaction.zebra.0.2"			"* Por mucho que quiera&  ayudar, dudo que dejarme&  llevar lo haga."
+"dialogue.savannah.interaction.zebra.0.3"			"* Si puede comunicarse&  conmigo, otros pueden&  tener el mismo resultado. "
+"dialogue.savannah.interaction.zebra.0.4"			"* Otros temas pueden seguir&  si comienza con un&  cálido saludo."
+"dialogue.savannah.interaction.zebra.0.5"			"* ¡Si quieres que lo haga más&  tarde, lo haré!{w} ¿Por ahora?&* En la hierba, estoy escuchando."
+"dialogue.savannah.interaction.zebra.0.6"			"* Está muy lejos por ahora.{w}&* Si podemos estar&  tranquilas, ¿algo más?"
+
+"dialogue.savannah.interaction.zebra.1.0"			"* Mis orejas arriba...&* Los uso mientras estoy parada&  para localizar personas."
+"dialogue.savannah.interaction.zebra.1.1"			"* ¡Una vez que lo hago,&  tiendo a saltar MUY alto!"
+"dialogue.savannah.interaction.zebra.1.2"			"* ¡Y salto, de{color_text `yellow`}guarida{color_text `white`}!"
+"dialogue.savannah.interaction.zebra.1.3"			"* Bueno, realmente no.{w}&* Usualmente, solo en mi mente.{w}&* ¡OW! A menos que..."
+"dialogue.savannah.interaction.zebra.1.4"			"* Has jugado alguna vez&  \"Cazadora y Presa\"?"
+"dialogue.savannah.interaction.zebra.1.5"			"* Iba a preguntarte si&  querías jugar antes&  de darme cuenta..."
+"dialogue.savannah.interaction.zebra.1.6"			"* Y todavía te estás&  recuperando...{w}&* Yo seguiré aquí."
+"dialogue.savannah.interaction.zebra.1.7"			"* Si eso fue demasiado&  pronto, ¿hay algo más?"
+
+"dialogue.savannah.interaction.zebra.2.0"			"* ¿Quieres saber más&  sobre \"Cazadora y&  Presa\"?"
+"dialogue.savannah.interaction.zebra.2.1"			"* ¿E incluso podrías&  reconocer el nombre?"
+"dialogue.savannah.interaction.zebra.2.2"			"* ...¡podría ser este otra&  pista de su herencia&  ¿tal vez?{w} {color_text `yellow`}Miawshii{color_text `white`}!"
+"dialogue.savannah.interaction.zebra.2.3"			"* Hay dos roles en el&  juego: \"CAZADORA\" y \"PRESA\".&  De ahí el nombre."
+"dialogue.savannah.interaction.zebra.2.4"			"* ¡Cazadora es el&  que tiendo a&  jugar!"
+"dialogue.savannah.interaction.zebra.2.5"			"* ¡Aunque cuando LEOPARD-CHAN&  está cerca, puedo divertirme &  mucho como Presa!"
+"dialogue.savannah.interaction.zebra.2.6"			"* Jugamos estos juegos para&  asegurar nuestra supervivencia.{w}&* ¡Y porque es divertido!"
+"dialogue.savannah.interaction.zebra.2.7"			"{space_y -2}* En él, las cazadoras&  deben alcanzar a la presa&  evadiendo el mayor tiempo&  posible."
+"dialogue.savannah.interaction.zebra.2.8"			"* Como es un juego, nadie&  tiene la intención de&  lastimar a nadie realmente."
+"dialogue.savannah.interaction.zebra.2.9"			"* ¿Algo más ahora que los&  sonidos de la hierba alta&  están empezando a bajar?"
+
+"dialogue.savannah.interaction.zebra.3.0"			"* ¡Mi éxito como \"CAZADORA\" se&  debe a cómo me&  cronometro!"
+"dialogue.savannah.interaction.zebra.3.1"			"{space_y -2}* Leopard me dice que el&  poder es una cosa. Otra&  es cómo se utiliza esa&  energía."
+"dialogue.savannah.interaction.zebra.3.2"			"* ¡Porque casi no sudo!{w}&* {color_text `yellow`}Apunto a que el medio&  conozca un movimiento mínimo.{color_text `white`}"
+"dialogue.savannah.interaction.zebra.3.3"			"* ¡Y luego saltar!{w}&* Una vez que se revela&  una vulnerabilidad."
+"dialogue.savannah.interaction.zebra.3.4"			"* ¡Mi éxito como ‘PRESA’&  se debe a cómo canso&  a cada 'CAZADORA'!"
+"dialogue.savannah.interaction.zebra.3.5"			"* Me dijeron que dado que&  cada compañera de juegos&  es distinta, sobrevivir es..."
+"dialogue.savannah.interaction.zebra.3.6"			"* ...usualmente sólo una&  parte de ella! Y ese otro es:&  {color_text `yellow`}evaluar mi momento{color_text `white`}."
+"dialogue.savannah.interaction.zebra.3.7"			"* Antes y, si no, al menos&  después, a intentar&  seguir teniendo más."
+"dialogue.savannah.interaction.zebra.3.8"			"{space_y -2}* Supongo que es por&  eso que Leopard tiende&  a ganar.{w}&* ...y vio a Hyena-chan."
+"dialogue.savannah.interaction.zebra.3.9"			"* No soy... realmente&  la mejor haciendo eso,&  ¡lo cual está bien!"
+"dialogue.savannah.interaction.zebra.3.10"		"* Después de todo, es un&  juego.{w}&* ¿Te ayudé?"
+
+"dialogue.savannah.interaction.zebra.4.0"			"* ..."
+
+"dialogue.savannah.interaction.zebra.zebra_chan.0.0"	"* ¡Gracias a ti, todas mis&  rayas se están&  multiplicando!"
+"dialogue.savannah.interaction.zebra.zebra_chan.0.1"	"* ...{w}&* Ellos... ¿no lo son?"
+
+"dialogue.savannah.interaction.zebra.zebra_chan.1.0"	"* Quizás se pregunte porqué&  me llaman Plains Zebra en&  primer lugar."
+"dialogue.savannah.interaction.zebra.zebra_chan.1.1"	"* ¿Quizás en parte por&* casualidad?{w} ¿Y en parte, porque&  me declaro serlo?"
+"dialogue.savannah.interaction.zebra.zebra_chan.1.2"	"* Ha estado funcionando para&  mí en cualquier caso~"
+
+"dialogue.savannah.interaction.zebra.zebra_chan.2.0"	"* La gente normalmente no me&  nota por mis rayas, así que&  gracias."
+"dialogue.savannah.interaction.zebra.zebra_chan.2.1"	"* Err, espera...{w}&* ¿Qué pasa si no quiero que&  me encuentren?"
+"dialogue.savannah.interaction.zebra.zebra_chan.2.2"	"* ¡Mejoraré mi escondite!{w}&* Err, ¿entonces qué pasa cuando&  quiero que me encuentres...?"
+"dialogue.savannah.interaction.zebra.zebra_chan.2.3"	"* Am, no tenemos que pensar&  tanto hoy cuando estoy a&  punto de estar pastando..."
+"dialogue.savannah.interaction.zebra.zebra_chan.2.4"	"* Eso es... si tú puedes&  encontrarme~"
+
+"dialogue.savannah.interaction.zebra.zebra_chan.3.0"	"{space_y -2}* Fuera de tema, pero a veces&  preparo mis espacios de&  bocadillos para AMIGAS&  más exigentes."
+"dialogue.savannah.interaction.zebra.zebra_chan.3.1"	"* ¿Has conocido a más miembros&  de la comunidad?"
+
+"dialogue.savannah.interaction.zebra.zebra_chan.4.0"	"* ..."
+"dialogue.savannah.interaction.zebra.zebra_chan.4.1"	"* Me pregunto qué trama el&  {color_text `c_blue`}Alborotador de Savannah{color_text `c_white`}..."
+
+"dialogue.savannah.interaction.zebra.zebra_chan.5.0"	"* ..."
+
+"dialogue.forcefield.0"						"* * Un campo de fuerza&  mágicamente electrificado&  está bloqueando el&  camino."
+
+"dialogue.jungle.interaction.japari_bus.0"			"* Este autobús no se ha&  utilizado durante mucho&  tiempo."
+"dialogue.jungle.interaction.japari_bus.1"			"* Es poco probable que&  funcione."
+
+"dialogue.jungle.save.puzzle.0"			"* La sensación de deambular&  por la jungla me llena de&  determinación y esperanza."
+"dialogue.jungle.save.puzzle.1"			"* (Todo el HP también se&  recuperó.)"
+
+"dialogue.jungle.save.post_battle.0"			"* El hecho de que la&  amabilidad es la única&  arma para tener paz..."
+"dialogue.jungle.save.post_battle.1"			"* Me llena de&  determinación y esperanza."
+"dialogue.jungle.save.post_battle.2"			"* (Todo el HP también se&  recuperó.)"
+
+"dialogue.jungle.interaction.tunnel.fennec.0"	"* no, es justo como&  pensaba. no me&  gusta estar aquí"
+"dialogue.jungle.interaction.tunnel.fennec.1"	"* pero es conveniente,&  entonces lo uso mucho&  para ir a las {color_text `yellow`}llanuras{color_text `white`}."
+
+"dialogue.jungle.interaction.tunnel.arai_san.0"	"¡SÉ QUE ES DIFÍCIL&DE CRUZAR, PERO ES&MUCHO MÁS SEGURO!"
+"dialogue.jungle.interaction.tunnel.arai_san.1"	"AHORA QUIERO&MANTENERLO EN&SECRETO, PERO..."
+"dialogue.jungle.interaction.tunnel.arai_san.2"	"LA GUIA SE OFENDERA&REALMENTE POR LO&QUE HICE."
+"dialogue.jungle.interaction.tunnel.arai_san.3"	"QUIERO DECIR, ¡FUI&SOLO UNA PERDEDORA!"
+
+"dialogue.fun_value.bonzi.0"				"* Hola. Bienvenida a mis&  dominios, querida viajera."
+"dialogue.fun_value.bonzi.1"				"{space_y -2}* Siéntase como en casa y&  absténgase de todo asunto negativo.&  Estaré ahí para ti cuando me&  necesites."
+"dialogue.fun_value.bonzi.2"				"{space_y -2}* Disfruta de tu presente,&  querido viajero.&* Este artículo podría&  ayudarte de alguna manera."
+
+"dialogue.shrine.interaction.toys.0"		"* Estos parecen ser objetos&  que se usan para algún&  tipo de pelea."
+"dialogue.shrine.interaction.toys.1"		"* Se ven polvorientos, y&  mucho menos esa bola&  que se desinfló."

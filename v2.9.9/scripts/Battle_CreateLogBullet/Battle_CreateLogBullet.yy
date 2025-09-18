@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Battle_CreateLogBullet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Battle_CreateLogBullet",
+  "parent":{
+    "name":"Logs",
+    "path":"folders/Scripts/Logs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

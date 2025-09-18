@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GMU_Other_Init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GMU_Other_Init",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Scripts/GMU/Other.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

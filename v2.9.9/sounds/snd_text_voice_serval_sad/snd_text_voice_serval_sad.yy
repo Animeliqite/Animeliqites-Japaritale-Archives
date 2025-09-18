@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_text_voice_serval_sad",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.0661,
+  "name":"snd_text_voice_serval_sad",
+  "parent":{
+    "name":"Voices",
+    "path":"folders/Sounds/SFX/Voices.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_text_voice_serval_sad.wav",
+  "type":1,
+  "volume":1.0,
+}

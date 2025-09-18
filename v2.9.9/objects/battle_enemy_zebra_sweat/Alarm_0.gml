@@ -1,0 +1,2 @@
+hasFallenDown = true;
+gravity = grav;

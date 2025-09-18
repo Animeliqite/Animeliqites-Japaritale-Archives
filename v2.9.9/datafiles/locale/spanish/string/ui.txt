@@ -1,0 +1,40 @@
+"ui.menu.item"						"ITEM"
+"ui.menu.item.use"					"USE"
+"ui.menu.item.info"					"INFO"
+"ui.menu.item.drop"					"DROP"
+"ui.menu.stat"						"STAT"
+"ui.menu.stat.0"					"\"{insert NAME}\"{space_y -1}&&{space_y 0}LV  {insert LV}&HP  {insert HP} / {insert HP_MAX}&&AT  {insert ATK} ({insert ATK_ITEM})&DF  {insert DEF} ({insert DEF_ITEM}){space_y -1}&&{space_y 0}WEAPON: {insert WEAPON}&ARMOR: {insert ARMOR}{space_y 4}&{space_y 0}GOLD: {insert GOLD}"
+"ui.menu.stat.1"					"EXP: {insert EXP}&NEXT: {insert EXP_NEXT}"
+"ui.menu.stat.2"					"{space_y -1}&&{space_y 0}&{space_y 4}&{space_y 0}KILLS: {insert KILLS}"
+"ui.menu.phone"						"CELL"
+
+"ui.save.name.empty"				"[VACÍO]"
+"ui.save.save"						"Guardar"
+"ui.save.return"					"Regresar"
+"ui.save.menu"						"Menú Prin"
+"ui.save.saved"						"Archivo Guardado."
+
+"ui.box.inventory"					"INVENTARIO"
+"ui.box.box"						"CAJA"
+"ui.box.finish"						"Presiona [X] para finalizar"
+"ui.confirmation.yes"					"Sí"
+"ui.confirmation.no"					"No"
+"ui.chapter_end"					"* Continuará."
+"ui.language.outdated"			"This language is outdated and does not promise\naccurate dialogues."
+
+"ui.item.item"						"ITEM"
+"ui.item.tool"						"TOOL"
+"ui.item.key"						"KEY"
+
+"api.gamejolt.username"					"Nombre de Usuario"
+"api.gamejolt.gametoken"				"Game Token"
+"api.gamejolt.disclaimer"				"Por favor escribe tu GameJolt\nnombre de usuario y token."
+
+"api.gamejolt.fail"					"Credenciales Invalidas. Por favor intentelo de nuevo."
+"api.gamejolt.success"					"¡Ya estás registrado!"
+
+"api.try_again"						"Intentar de nuevo"
+"api.log_out"						"Cerrar sesión"
+"api.exit"							"Salir"
+
+"ui.menu.press_z"						"[PRESIONA Z O ENTER]"

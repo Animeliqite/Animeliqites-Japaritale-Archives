@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_water_quiet",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":3.0142403,
+  "name":"bgm_water_quiet",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Sounds/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_water_quiet.ogg",
+  "type":1,
+  "volume":1.0,
+}

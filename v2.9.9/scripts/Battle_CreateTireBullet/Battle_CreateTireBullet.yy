@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Battle_CreateTireBullet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Battle_CreateTireBullet",
+  "parent":{
+    "name":"Logs",
+    "path":"folders/Scripts/Logs.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

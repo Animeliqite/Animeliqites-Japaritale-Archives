@@ -1,0 +1,16 @@
+if(!Player_IsInBattle()){
+	if(global.in_overworld_battle){
+		if(!_overworld_battle_executed_once){
+			Anim_Create(id,"_ui_alpha",ANIM_TWEEN.CIRC,ANIM_EASE.OUT,_ui_alpha,1,15,0,-1,-1,ANIM_MODE.ONESHOT,false);
+			Anim_Create(id,"_ui_y",ANIM_TWEEN.CIRC,ANIM_EASE.OUT,_ui_y,0,15,0,-1,-1,ANIM_MODE.ONESHOT,false);
+			_overworld_battle_executed_once=true;
+		}
+	}
+	else{
+		if(_overworld_battle_executed_once){
+			Anim_Create(id,"_ui_alpha",ANIM_TWEEN.CIRC,ANIM_EASE.IN,_ui_alpha,0,15,0,-1,-1,ANIM_MODE.ONESHOT,false);
+			Anim_Create(id,"_ui_y",ANIM_TWEEN.CIRC,ANIM_EASE.IN,_ui_y,25,15,0,-1,-1,ANIM_MODE.ONESHOT,false);
+			_overworld_battle_executed_once=false;
+		}
+	}
+}

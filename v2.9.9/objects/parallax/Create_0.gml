@@ -1,0 +1,12 @@
+_sprites=[];
+_subimgs=[];
+_x_scales=[];
+_y_scales=[];
+_x_multipliers=[];
+_y_multipliers=[];
+_x_offsets=[];
+_y_offsets=[];
+_alphas=array_create(64,1);
+xx=0;
+yy=0;
+decrease_amount=0;

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_calmingbeat",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":3.0054648,
+  "name":"bgm_calmingbeat",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Sounds/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_calmingbeat.ogg",
+  "type":1,
+  "volume":1.0,
+}

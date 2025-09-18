@@ -1,0 +1,1 @@
+text[0]=Lang_GetString("interaction.jungle.bridge_sign.0")+"{pause}{end}";

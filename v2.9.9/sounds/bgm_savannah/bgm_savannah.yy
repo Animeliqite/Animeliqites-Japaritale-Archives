@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_savannah",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":88.61537,
+  "name":"bgm_savannah",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Sounds/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_savannah.ogg",
+  "type":1,
+  "volume":1.0,
+}

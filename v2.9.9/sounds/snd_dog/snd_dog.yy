@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_dog",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.304762,
+  "name":"snd_dog",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Sounds/SFX/Effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_dog.wav",
+  "type":0,
+  "volume":1.0,
+}

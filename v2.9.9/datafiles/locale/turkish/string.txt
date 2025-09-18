@@ -1,0 +1,16 @@
+./string/battle.json
+./string/ui.json
+./string/item.json
+./string/menu.json
+./string/font.json
+./string/monster.json
+./string/cutscenes_savannah.json
+./string/cutscenes_zebra.json
+./string/interaction.json
+./string/cutscenes_jungle.json
+./string/cutscenes_plains.json
+./string/settings.json
+./string/setup.json
+./string/intro.json
+./string/disclaimer.json
+./string/credits.json

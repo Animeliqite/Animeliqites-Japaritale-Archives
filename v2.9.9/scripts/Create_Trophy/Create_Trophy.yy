@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Create_Trophy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Create_Trophy",
+  "parent":{
+    "name":"Utils",
+    "path":"folders/Scripts/Utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

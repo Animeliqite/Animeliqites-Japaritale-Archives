@@ -1,0 +1,11 @@
+if(phase==1){
+	timer++;
+	if(timer==30){
+		with(instance_create_depth(battle_board.x-battle_board.left-20,battle_board.y+battle_board.down+10,0,battle_bullet_logs)){
+			image_angle=-12;
+			image_yscale=1.5;
+			image_blend=c_white;
+			spd=4;
+		}
+	}
+}

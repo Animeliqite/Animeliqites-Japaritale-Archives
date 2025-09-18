@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_tobchicken_idle,_img,room_width/2,room_height/2,2,2,0,c_white,1);

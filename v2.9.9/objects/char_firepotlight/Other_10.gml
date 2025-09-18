@@ -1,0 +1,1 @@
+Anim_Create(id,"image_alpha",0,0,image_alpha,1,15,0,-1,-1,ANIM_MODE.ONESHOT,false);

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_whistleslide",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.81696147,
+  "name":"snd_whistleslide",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Sounds/SFX/Effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_whistleslide.wav",
+  "type":0,
+  "volume":1.0,
+}

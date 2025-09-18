@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_arai_san_battle",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":57.608707,
+  "name":"bgm_arai_san_battle",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Sounds/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_arai_san_battle.mp3",
+  "type":1,
+  "volume":1.0,
+}

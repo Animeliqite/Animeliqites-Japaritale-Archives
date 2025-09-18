@@ -1,0 +1,20 @@
+event_inherited();
+
+event_user(0);
+global.chapter=1;
+Cutscene_End(-1);
+cutscene._current_order=0;
+global._gmu_cutscene=true;
+char_serval.x=200;
+char_serval.y=170;
+char_serval.sprite_index = spr_char_serval_right;
+char_serval.dir = DIR.RIGHT;
+char_serval.res_idle_sprite[DIR.RIGHT] = spr_char_serval_right;
+char_serval.res_move_sprite[DIR.RIGHT] = spr_char_serval_right;
+char_serval.res_idle_sprite[DIR.LEFT] = spr_char_serval_left;
+char_serval.res_move_sprite[DIR.LEFT] = spr_char_serval_left;
+char_serval.res_idle_sprite[DIR.UP] = spr_char_serval_up;
+char_serval.res_move_sprite[DIR.UP] = spr_char_serval_up;
+char_serval.res_idle_sprite[DIR.DOWN] = spr_char_serval_down;
+char_serval.res_move_sprite[DIR.DOWN] = spr_char_serval_down;
+Cutscene_Begin();

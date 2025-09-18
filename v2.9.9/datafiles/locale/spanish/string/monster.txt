@@ -1,0 +1,221 @@
+"cutscene.beginning.question.0"					"* Veo una figura misteriosa a&  solo unos metros de distancia."
+"cutscene.beginning.question.1"					"* Aunque estoy asustada,&  seguramente eso es un signo de ayuda."
+"cutscene.beginning.question.2"					"* Y eso no me deja otra opción&  que acercarme."
+
+"monster.cellien_small.overworld_dialog.0"			"* ¡Buen dia, {color_text `yellow`}AMIGA{color_text `white`}!"
+"monster.cellien_small.overworld_dialog.1"			"{space_y -2}* ¡Ha pasado demasiado&  tiempo desde que tuve la&  oportunidad de conocer&  a alguien nuevo!"
+"monster.cellien_small.overworld_dialog.2"			"* ¿Y sería eso un honor&  desconocido también?"
+"monster.cellien_small.overworld_dialog.3"			"* Porque si es así, tú...&  REALMENTE - eres&   - ¡NUEVA!"
+"monster.cellien_small.overworld_dialog.4"			"{space_y -2}* ¡Y justo después de que&  casi todo el polvo&  se asentara!&* ¡Qué suerte!"
+"monster.cellien_small.overworld_dialog.5"			"{space_y -2}* Ha pasado bastante&  tiempo desde que otro de&  nosotros ha estado por&  aquí."
+"monster.cellien_small.overworld_dialog.6"			"* Y no solo eso, es&  alguien solo como yo,&  anhelando..."
+"monster.cellien_small.overworld_dialog.7"			"* ...algo ¡informativo!"
+"monster.cellien_small.overworld_dialog.8"			"* ¡Pero haz que esa cara&  ansiosa que tienes&  sonría!"
+"monster.cellien_small.overworld_dialog.9"			"* Hay una fortuna frente&  a ti."
+"monster.cellien_small.overworld_dialog.10"			"* Dicho esto, permíteme&  enseñarte las cosas&  importantes."
+"monster.cellien_small.overworld_dialog.11"			"* Y podemos dejar atrás&  tales debilidades como&  nuestras preocupaciones."
+
+"monster.cellien_small.overworld_dialog.0.1"		"* ¡Buen dia, {color_text `yellow`}AMIGA!{color_text `white`}"
+"monster.cellien_small.overworld_dialog.1.1"		"* ¡Ha pasado demasiado&  tiempo desde que tuve la&  oportunidad de conocer&  a alguien nuevo!"
+"monster.cellien_small.overworld_dialog.2.1"		"* Algo en esa mirada&  me dice que no debo&  creerte."
+"monster.cellien_small.overworld_dialog.3.1"		"* ¡No hay problema!&  Entonces, ¿supongo que eso me&  dice que el polvo se ha asentado?"
+"monster.cellien_small.overworld_dialog.4.1"		"* ¡Hace demasiado tiempo&  que uno más de nosotros no&  ha estado por aquí!"
+"monster.cellien_small.overworld_dialog.5.1"		"* Y resulta ser alguien&  igual de solo."
+"monster.cellien_small.overworld_dialog.6.1"		"* ¡Sin embargo, haz que esa&  cara impaciente tuya&  sonría!"
+"monster.cellien_small.overworld_dialog.7.1"		"* ¡Habría una fortuna&  frente a ti si me permitieras&  mostrártelo!"
+"monster.cellien_small.overworld_dialog.8.1"		"* ¡Y podemos dejar atrás&  las debilidades como&  nuestra arrogancia!"
+
+"monster.cellien_small.battle_dialog.0"			"{event 2}¡Ese BRILLO tuyo es tu&esencia! La más rara,&pero la más afortunada&de las caracteristicas&de uno, como debe saber."
+"monster.cellien_small.battle_dialog.1"			"{event 2}¡Más que cualquier&alma simple, es&felicidad y alegria!"
+"monster.cellien_small.battle_dialog.2"			"{event 1}Tus pensamientos y&emociones más íntimas...&eso y mucho más."
+"monster.cellien_small.battle_dialog.3"			"{event 2}Eso es un {color_text `blue`}BRILLO{color_text `black`},&abstracto, único y&absolutamente&insustituible."
+"monster.cellien_small.battle_dialog.4"			"{event 3}Bueno, esta cantidad&indefinible de valor...{w}&hay un peligro&inimaginable."
+"monster.cellien_small.battle_dialog.5"			"{event 1}No por el equilibrio&de las características&de uno, sino por la&falta de conocimiento&de cómo ser utilizado."
+"monster.cellien_small.battle_dialog.6"			"{event 1}¿Consideras esos rasgos&únicos y respuestas&únicas a algo de lo que&te hace?"
+"monster.cellien_small.battle_dialog.7"			"{event 2}Lo que separa a {color_text `blue`}CAZADOR{color_text `black`}&de {color_text `blue`}PRESA{color_text `black`} es la verdadera&razón por la que&debemos dejar atrás&las nociones de&miedo absoluto."
+"monster.cellien_small.battle_dialog.8"			"{event 2}Haz todo lo posible&por ser valiente para&que puedas demostrar&quién es el jefe aquí."
+"monster.cellien_small.battle_dialog.9"			"{event 1}{event 10}Segundo, mueve tu&ALMA con las FLECHAS&DEL TECLADO.{w}&Mantén X o SHIFT&para ir lento."
+"monster.cellien_small.battle_dialog.10"			"{event 1}¡Esquiva esos&objetos blancos que&vienen hacia ti y&es todo!"
+"monster.cellien_small.battle_dialog.11"			"{event 2}¡La demonstración&comienza ahora!"
+
+"monster.cellien_small.battle_dialog_dodge.0.0"		"{event 7}¡Bastante sorprendente&para una aficionada&como tu!"
+"monster.cellien_small.battle_dialog_dodge.0.1"		"{event 4}Ahora vamos a dar un&paso más, ¿de acuerdo?"
+
+"monster.cellien_small.battle_dialog_dodge.1.0"		"{event 2}¡Suerte para los&intermedios, pero todo&bien!"
+"monster.cellien_small.battle_dialog_dodge.1.1"		"{event 4}¿Puedes soportar esta&cantidad de velocidad?"
+
+"monster.cellien_small.battle_dialog_dodge.2.0"		"{event 3}Ok, ok.&Ya te has probado a ti&misma."
+
+"monster.cellien_small.battle_dialog_collide.0.0"		"{event 4}¿Sorprendida?&¿Incluso un poco?"
+"monster.cellien_small.battle_dialog_collide.0.1"		"{event 3}No es de extrañar que&estés atrapada aquí&sola..."
+"monster.cellien_small.battle_dialog_collide.0.2"		"{event 3}No podía imaginar a&alguien dispuesto a&perder el tiempo contigo."
+"monster.cellien_small.battle_dialog_collide.0.3"		"{event 2}REALMENTE eres la&graciosa, \"AMIGA\"."
+"monster.cellien_small.battle_dialog_collide.0.4"		"{event 1}Vayamos a la parte más&importante."
+
+"monster.cellien_small.battle_dialog_collide.1.0"		"{event 4}¿Alguna vez te has&preguntado para qué&fuimos creados?"
+"monster.cellien_small.battle_dialog_collide.1.1"		"{event 4}¿Como un virus?&¿Quizás una anomalía&de algún tipo?"
+"monster.cellien_small.battle_dialog_collide.1.2"		"{event 3}Las AMIGAS se han&vuelto cada vez más&ignorantes durante&mucho tiempo."
+"monster.cellien_small.battle_dialog_collide.1.3"		"{event 1}Solo recuerda que&ahora es el momento..."
+"monster.cellien_small.battle_dialog_collide.1.4"		"{event 3}Por el fin de tu&miserable, vida&amenazada."
+
+"monster.cellien_small.battle_dialog_threaten.0"	"Absorbiendo ese BRILLO&tuyo, claro."
+"monster.cellien_small.battle_dialog_threaten.1"	"Otro oponente fuera."
+
+"monster.cellien_small.battle_dialog_aftermath.0"	"{speed -1}¿¡POR QUÉ NO PUEDO&MATAR A ALGUIEN!?"
+"monster.cellien_small.battle_dialog_aftermath.1"	"{event 8}{speed -1}DESEARÁS haber recibido&ESTA marca de PIEDAD&de TU ANIQUILACIÓN."
+"monster.cellien_small.battle_dialog_aftermath.2"	"{speed 4}¡TE DARÁS CUENTA... UN&DÍA!"
+
+"monster.cellien_big.name"					"* Cellien"
+
+"monster.cellien_big.act_option.check"			"* Checar"
+"monster.cellien_big.act_option.search"		"* Buscar"
+"monster.cellien_big.act_option.instruct"		"* Instruir"
+"monster.cellien_big.act_option.plan"			"* Planear"
+
+"monster.cellien_big.battle_check.0"			"* CELLIEN - 3 AT 25 DF{w}&* Un tipo amenazante&  bloqueando el portón."
+"monster.cellien_big.battle_check.1"			"* Necesito encontrar una&  manera de distraerlo.."
+
+
+"monster.cellien_big.battle_plan.0"			"* Necesito más tiempo para&  pensar en uno."
+"monster.cellien_big.battle_plan.1"			"* Me pregunté si los CELLIENS&  tenía puntos débiles y la&  respuesta llegó de inmediato."
+"monster.cellien_big.battle_plan.2"			"* ¡Esa es la pista número uno!"
+"monster.cellien_big.battle_plan.3"			"* Sin parar, seguí pensando&  en los consejos de Hippo&  antes de esta pelea."
+"monster.cellien_big.battle_plan.4"			"* Tirar piedras, lo distrae..."
+"monster.cellien_big.battle_plan.5"			"* Recordar esto me hizo sentir&  que mis preguntas fueron&  respondidas."
+
+"monster.cellien_big.battle_search.0"			"* Sin perder tiempo,&  rápidamente me puse manos a&  la obra."
+"monster.cellien_big.battle_search.1"			"* Recogí algunas piedras,&  un palo y un papel extraño."
+"monster.cellien_big.battle_search.2"			"* Segura que alguna te viene&  bien."
+"monster.cellien_big.battle_search_fail.0"		"* Pero no había nada más útil&  por ahí."
+
+"monster.cellien_big.battle_instruct_fail.0"		"* Pero no había nadie&  disponible para instruir."
+
+"monster.cellien_big.flavor_text.act_expand"		"* ¡Mis acciones se están&  expandiendo!"
+"monster.cellien_big.flavor_text.core_visible"		"* ¡El nucleo es visible!"
+"monster.cellien_big.flavor_text.random.0"		"* La brisa fría del viento&  rodea la zona."
+"monster.cellien_big.flavor_text.random.1"		"* El CELLIEN nos mira&  directamente."
+"monster.cellien_big.flavor_text.random.2"		"* La atmósfera jura con&  miedo y desesperanza."
+"monster.cellien_big.flavor_text.serval"		"* ¡Miaw! ¡Ahora es mi momento&  para la victoria!"
+
+"monster.arai_san.name"					"* Arai-san"
+
+"monster.arai_san.act_option.check"			"* Checar"
+"monster.arai_san.act_option.escape"		"* Escapar"
+"monster.arai_san.act_option.scoff"			"* Burlar"
+"monster.arai_san.act_option.flirt"			"* Coquetear"
+"monster.arai_san.act_option.play"			"* Jugar"
+
+"monster.arai_san.battle_check.normal.0"	"* ARAI-SAN - 3 AT 15 DF{w}&* Está concentrada en su&  misión."
+
+"monster.arai_san.battle_check.0"			"* Miré a Arai-san."
+"monster.arai_san.battle_check.1"			"* Ella me mira como yo&  la he mirado."
+
+"monster.arai_san.battle_check.2"			"* Miré a Arai-san&  de nuevo."
+"monster.arai_san.battle_check.3"			"* Ella sonríe y me mira&  como yo la miraba."
+
+"monster.arai_san.battle_escape.0"			"* Traté de escapar, pero&  Arai-san no me deja ir."
+"monster.arai_san.battle_escape.1"			"* Necesito más poder&  para despejarla de mi camino."
+
+"monster.arai_san.battle_scoff.0"			"* Empecé a criticar la&  forma en que preparaba&  sus trampas."
+"monster.arai_san.battle_scoff.1"			"* También le dije lo malos&  y vacíos que se ven."
+"monster.arai_san.battle_scoff.2"			"* Parece que le di esperanza.&* ¡ATK y DF han bajado!"
+
+"monster.arai_san.battle_flirt.0"			"* Le pregunté si podía&  salir con ella."
+"monster.arai_san.battle_flirt.1"			"* Ella se avergüenza y no&  sabe qué decir."
+"monster.arai_san.battle_flirt.2"			"* Probablemente no es una&  buena idea."
+
+"monster.arai_san.battle_escape.dialog.0"		"¡Te estoy diciendo que&no te muevas-nanoda!"
+"monster.arai_san.battle_escape.dialog.1"		"Ya no puedes ignorarme&como antes, ¡así que&compórtate!"
+
+"monster.arai_san.battle_scoff.dialog.0"		"¡¿QUÉÉÉ?! ¿Estás diciendo&que mi valla es&fácilmente pasable-noda?"
+"monster.arai_san.battle_scoff.dialog.1"		"Ow... ¡Tienes algo de&bondad en ti!"
+"monster.arai_san.battle_scoff.dialog.2"		"¿Quizás no eres tan mala&después de todo-nanoda?"
+"monster.arai_san.battle_scoff.dialog.3"		"No, no. ¡Me estás&lavando el cerebro-noda!"
+
+"monster.arai_san.battle_flirt.dialog.0"		"¡¿QUÉÉÉ?! ¿¡Me estás&pidiendo que salga&contigo-noda!?"
+"monster.arai_san.battle_flirt.dialog.1"		"¡¡¡Arai-san no sabe que&hacer!!!"
+"monster.arai_san.battle_flirt.dialog.2"		"{event 2}EEi, hablemos de&eso más tarde-nanoda."
+"monster.arai_san.battle_flirt.dialog.3"		"{event 3}¡No estoy acostumbrada&a esto...!"
+
+"monster.arai_san.battle_play.objects.0"		"Bote de Basura"
+"monster.arai_san.battle_play.objects.1"		"Rama de Árbol"
+"monster.arai_san.battle_play.objects.2"		"Rueda de Autobús"
+
+"monster.arai_san.battle_play.object_0.dialog.0"		"Sabes, esto no&funcionará."
+"monster.arai_san.battle_play.object_0.dialog.1"		"¡¡PERO!!{w} ¡Te capturaré&con esta... caja&de basura!"
+"monster.arai_san.battle_play.object_0.dialog.2"		"¡Preparate!"
+
+"monster.arai_san.battle_play.object_1.dialog.0"		"¿Lo siguiente es una&sucursal?"
+"monster.arai_san.battle_play.object_1.dialog.1"		"¿Alguien te ha dicho&que te encanta hacer&cosas de niños?"
+"monster.arai_san.battle_play.object_1.dialog.2"		"Bien ahora lo sabes."
+
+"monster.arai_san.battle_play.object_2.dialog.0"		"Oh, ¿esto?{w} Esto&estaba conectado a&algo llamado \"autobus\"."
+"monster.arai_san.battle_play.object_2.dialog.1"		"¡Da vueltas y vueltas!&¡Es súper divertido!"
+"monster.arai_san.battle_play.object_2.dialog.2"		"{event 2}De acuerdo, tal vez me&encanta hacer cosas&infantiles en lo más&profundo de mí."
+
+"monster.arai_san.flavor_text.0"			"* Como pensé, ella no me va&  a dejar ir."
+"monster.arai_san.flavor_text.1"			"* Arai-san cree que ha hecho&  lo correcto."
+"monster.arai_san.flavor_text.2"			"* Arai-san está buscando&  algo divertido."
+"monster.arai_san.flavor_text.3"			"* ¿Quizás es hora de jugar&  algunos juegos?"
+"monster.arai_san.flavor_text.4"			"* ¡Parece satisfecha&  jugando!"
+"monster.arai_san.flavor_text.5"			"* Como era de esperar,&  Arai-san está de muy&  buen humor."
+
+"monster.arai_san.flavor_text.4"			"* Sentí la seriedad en&  sus ojos."
+
+"monster.arai_san.battle_dialog.0"			"¡Ahora que las cosas han&llegado a ESTO, tengo&que recurrir a la&fuerza-noda!"
+"monster.arai_san.battle_dialog.1"			"¡No hay forma de escapar&ahora, ya que esta es&una batalla REAL-nanoda!"
+"monster.arai_san.battle_dialog.2"			"De todos modos, ¡siente&mi ataque especial!"
+"monster.arai_san.battle_dialog.3"			"¡JAJA, ¿Cómo te&sentiste-noda?!"
+"monster.arai_san.battle_dialog.4"			"Espero que hayas&aprendido la lección,&porque si no..."
+"monster.arai_san.battle_dialog.5"			"La lucha puede durar&años, en los que no&me importa-nanoda."
+"monster.arai_san.battle_dialog.6"			"Así que compórtate,&chica."
+
+"monster.arai_san.battle_dialog.7"			"¿Te sientes lenta?{w}&Rindete ya, te vas a&resfriar."
+
+"monster.arai_san.battle_dialog.8"			"Así que eres del tipo&molesto como supuse..."
+"monster.arai_san.battle_dialog.9"			"Bueno, ¡estoy segura&de que te rendirás&de todos modos-nanoda!"
+
+"monster.arai_san.battle_dialog.10"			"Oye, estoy REALMENTE&aburrida-noda.&¿Por qué no jugamos juegos?"
+"monster.arai_san.battle_dialog.11"			"¡Solo elige uno que te&guste y cuéntamelo todo!&¡Soy toda oídos-nanoda!"
+
+"monster.arai_san.battle_dialog.fennec.0"		"no es bueno,&arai-san."
+"monster.arai_san.battle_dialog.fennec.1"		"de hecho, seré la&única patrullera&aquí si te vas."
+"monster.arai_san.battle_dialog.fennec.2"		"así que por favor,&simplemente no lo hagas."
+"monster.arai_san.battle_dialog.fennec.3"		"....&........"
+"monster.arai_san.battle_dialog.fennec.4"		"¡Sus ojos son nanoda&serios! Creo que&deberías parar."
+
+"monster.arai_san.battle_dialog.12"			"Oh, ¿ahora estás&cansada y quieres ir?"
+"monster.arai_san.battle_dialog.13"			"¡La guía se enfadará&mucho si te dejo&hacer eso!"
+"monster.arai_san.battle_dialog.14"			"¡No puedo romper la&promesa! No en esta&situación."
+
+"monster.arai_san.battle_dialog.15"			"Si te hubiera dejado&ir por tu cuenta..."
+"monster.arai_san.battle_dialog.16"			"¿Cómo le voy a decir&al guía sobre esto?"
+
+"monster.arai_san.battle_dialog.16.0"			"¡Me dijeron que te&llevara a la guía de&menra segura!"
+"monster.arai_san.battle_dialog.16.1"			"¿No lo entiendes, noda?"
+
+"monster.arai_san.battle_dialog.17"			"¡De todos modos,&noda! ¡Se jugaron juegos,&se perdió el tiempo!"
+"monster.arai_san.battle_dialog.18"			"¡Enfréntate a mi ataque&especial!"
+
+"monster.arai_san.battle_dialog.give_up.0"	"¿Fui... fui demasiada&dura contigo?"
+"monster.arai_san.battle_dialog.give_up.1"	"¡Oww... noda!&¡Deberías haberme dicho!"
+"monster.arai_san.battle_dialog.give_up.2"	"Ahora, para hacer las&paces, terminaré la&batalla allí mismo.&¡Lo siento-noda!"
+
+"monster.arai_san.battle_dialog.19"			"¡AAAAAAA!&¡¡¡Mi ataque especial!!!"
+"monster.arai_san.battle_dialog.20"			"¡¡¡Tu fuerza....!!!&¡¡No tenía ni idea de&que existía tal manera!!"
+"monster.arai_san.battle_dialog.21"			"¡Agh! A pesar de que&trabajé duro para hacerlo..."
+"monster.arai_san.battle_dialog.22"			"¿Cómo podría saber que&esto sucedería?"
+"monster.arai_san.battle_dialog.23"			".........&........."
+"monster.arai_san.battle_dialog.24"			".........&........."
+"monster.arai_san.battle_dialog.25"			".........&........."
+"monster.arai_san.battle_dialog.26"			"Escucha, humano-sombrero."
+"monster.arai_san.battle_dialog.27"			"Entonces me pregunto..."
+"monster.arai_san.battle_dialog.28"			"¿Por qué un niño como&tú lleva sombrero?"
+"monster.arai_san.battle_dialog.29"			"¿Especialmente cuando&es idéntico al que&vi?"
+"monster.arai_san.battle_dialog.30"			"¡Tal vez seas digna&de tener un sombrero!"
+"monster.arai_san.battle_dialog.31"			"Por lo tanto, te&voy a dar una&misión-noda."
+"monster.arai_san.battle_dialog.32"			"¡Solo dale tu&sombrero a la Guía&del Parque y eso es todo!"
+"monster.arai_san.battle_dialog.33"			"¿Emmm? ¿Quién es la guía?"
+"monster.arai_san.battle_dialog.34"			"Ella es la que dirige&el Japari Park, ¡así que&no te preocupes-noda!"
+
+"monster.arai_san.flavor_text.end"			"* Arai-san renuncia a luchar."

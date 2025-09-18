@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_phone_box",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.29024944,
+  "name":"snd_phone_box",
+  "parent":{
+    "name":"Phone",
+    "path":"folders/Sounds/SFX/Phone.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_phone_box",
+  "type":0,
+  "volume":1.0,
+}

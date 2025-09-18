@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Typer_Type_Array",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Typer_Type_Array",
+  "parent":{
+    "name":"Utils",
+    "path":"folders/Scripts/Utils.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

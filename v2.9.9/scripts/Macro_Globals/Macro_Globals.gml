@@ -1,0 +1,22 @@
+function Macro_Globals(){
+	global.event=-9999;
+	global._dialogholder_count=0;
+	global.tempRoomGoTo=room_savannah_6;
+	global.credits_room_target=room_jungle_0;
+	global.chosen_language=0;
+	global.chosen_border=0;
+	global.sfx_volume=1;
+	global.bgm_volume=1;
+	global.debug=true;
+	global.low_vfx=false;
+	global.settings_returning=false;
+	global.dialogue_box_style=false;
+	global.first_time=true;
+	global.in_overworld_battle=false;
+	global.language_version=2;
+	global.gotFlint=false;
+	global.time_since_warp=0;
+	global.chapter=1;
+	global.auto_run=false;
+	global.dmg_font=font_add_sprite_ext(spr_ui_battlenum,"0123456789",false,2);
+}

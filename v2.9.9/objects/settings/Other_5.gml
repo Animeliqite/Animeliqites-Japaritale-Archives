@@ -1,0 +1,15 @@
+ini_open("settings.ini");
+ini_write_real("General","Language",global.chosen_language);
+ini_write_real("General","SFXVolume",audio_emitter_get_gain(global._gmu_emitter_sfx));
+ini_write_real("General","BGMVolume",audio_emitter_get_gain(global._gmu_emitter_bgm));
+ini_write_real("General","LowVFX",global.low_vfx);
+ini_write_real("General","Border",global.chosen_border);
+ini_write_real("General","DialogueBoxStyle",global.dialogue_box_style);
+ini_write_real("Keyboard","Confirm",Input_GetKey(INPUT.CONFIRM));
+ini_write_real("Keyboard","Cancel",Input_GetKey(INPUT.CANCEL));
+ini_write_real("Keyboard","Menu",Input_GetKey(INPUT.MENU));
+ini_write_real("Keyboard","Left",Input_GetKey(INPUT.LEFT));
+ini_write_real("Keyboard","Right",Input_GetKey(INPUT.RIGHT));
+ini_write_real("Keyboard","Up",Input_GetKey(INPUT.UP));
+ini_write_real("Keyboard","Down",Input_GetKey(INPUT.DOWN));
+ini_close();

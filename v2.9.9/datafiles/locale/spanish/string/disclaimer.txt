@@ -1,0 +1,3 @@
+"disclaimer.text"		"Tenga en cuenta que este juego\nno está relacionado con Toby Fox\ny el equipo detrás de Kemono Friends de\nninguna manera. Este juego también utiliza\nelementos de la serie de animación\nde @shobotan04, ya que el objetivo\nprincipal de esta recreación\nes brindar una experiencia\njugable a todos los usuarios."
+
+"disclaimer.logo"		"ADVERTENCIA"

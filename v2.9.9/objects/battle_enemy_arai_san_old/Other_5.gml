@@ -1,0 +1,1 @@
+Flag_Set(FLAG_TYPE.TEMP,FLAG_TEMP.BATTLE_ROOM_RETURN,room_jungle_end);

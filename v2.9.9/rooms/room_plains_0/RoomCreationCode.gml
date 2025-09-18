@@ -1,0 +1,1 @@
+camera.offset_pos_y=240;

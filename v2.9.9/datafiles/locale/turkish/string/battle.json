@@ -1,0 +1,14 @@
+{
+    "battle.menu.mercy.spare": "* Bağışla",
+    "battle.menu.mercy.flee": "* Kaç",
+    "battle.result.won": "* KAZANDIM!&* {insert EXP} İTP ve {insert GOLD} ALTIN aldım.",
+    "battle.result.fled.0": "* Kaçtım...",
+    "battle.result.fled.1": "* Buradan gidiyorum.",
+    "battle.result.fled.2": "* Yapmam gereken daha&  iyi işler var.",
+    "battle.result.fled.3": "* Beni durdurmayın.",
+    "battle.result.fled.reward": "* {insert EXP} İTP ve {insert GOLD} ALTIN ile kaçtım.",
+    "battle.result.lv_up": "* SEVİYEM yükseldi.",
+    "battle.encounter.cellien_big": "* İşte karşımızda oyunbozan.",
+    "battle.encounter.arai_san": "* Arai-san yolumu kapatıyor!",
+    "battle.encounter.duel": "* Haydi tapınağa gidelim!"
+  }

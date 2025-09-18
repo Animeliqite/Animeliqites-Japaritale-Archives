@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"BattleFightPanel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"BattleFightPanel",
+  "parent":{
+    "name":"Modern",
+    "path":"folders/Scripts/Modern.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

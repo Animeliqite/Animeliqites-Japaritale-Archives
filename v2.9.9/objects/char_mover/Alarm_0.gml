@@ -1,0 +1,2 @@
+spd = point_distance(_moving_object.x, _moving_object.y, _x_dest, _y_dest) / _seconds;
+_moving_object._move_speed_anim = point_distance(_moving_object.x, _moving_object.y, _x_dest, _y_dest) / _seconds;

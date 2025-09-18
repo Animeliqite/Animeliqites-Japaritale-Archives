@@ -1,0 +1,10 @@
+{
+    "intro.0": "Greetings, fellow&visitor.{sleep 280}{event 0}",
+    "intro.1": "Before you start your&adventure, there is&something I must tell.{sleep 280}{event 0}",
+    "intro.2": "Please sit down and&pay attention, as this&is very important.{sleep 280}{event 0}",
+    "intro.3": "You shouldn't miss&this.{sleep 320}{event 0}",
+    "intro.4": "Japari Park is an zoo&of wonders and dreams,&where everyone lives&happily after.{sleep 320}{event 0}",
+    "intro.5": "Although foes have&existed throughout all&these years, those bad&times were kept low.{sleep 320}{event 0}",
+    "intro.6": "And every decade, new&FRIENDS are born with&the power of SANDSTAR,&alongside anomalies...{sleep 320}{event 0}",
+    "intro.7": "And... perhaps{event 1} a&human by a rare chance?{sleep 800}{event 2}"
+  }

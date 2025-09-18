@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_en_bonzi_enjoy",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":5.168254,
+  "name":"snd_en_bonzi_enjoy",
+  "parent":{
+    "name":"EN",
+    "path":"folders/Sounds/Voicelines/Bonzi/EN.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_en_bonzi_enjoy.wav",
+  "type":0,
+  "volume":1.0,
+}

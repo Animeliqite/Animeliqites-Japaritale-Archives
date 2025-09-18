@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Cutscene_Init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Cutscene_Init",
+  "parent":{
+    "name":"Cutscene",
+    "path":"folders/Scripts/GMU/Cutscene.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

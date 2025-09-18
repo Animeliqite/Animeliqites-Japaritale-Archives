@@ -1,0 +1,1 @@
+x=battle_soul.x;

@@ -1,0 +1,11 @@
+Flag_SetSaveSlot(_chosen_file);
+Flag_Clear(FLAG_TYPE.STATIC);
+Flag_Clear(FLAG_TYPE.DYNAMIC);
+Flag_Custom();
+Flag_Custom_Extra();
+Player_SetUserName(_naming_name);
+Player_SetName("KABAN");
+fader.color=c_black;
+Fader_Fade(-1,0,10);
+room_goto_next();
+BGM_Stop(0);

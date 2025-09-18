@@ -1,0 +1,1 @@
+camera.offset_amount_y=1;

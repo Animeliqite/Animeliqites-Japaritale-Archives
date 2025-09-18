@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_cellien_laugh",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":4.7261453,
+  "name":"snd_cellien_laugh",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Sounds/SFX/Effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_cellien_laugh.wav",
+  "type":0,
+  "volume":1.0,
+}

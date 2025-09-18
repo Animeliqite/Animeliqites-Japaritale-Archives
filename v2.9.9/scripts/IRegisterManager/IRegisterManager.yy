@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"IRegisterManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"IRegisterManager",
+  "parent":{
+    "name":"Modern",
+    "path":"folders/Scripts/Modern.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

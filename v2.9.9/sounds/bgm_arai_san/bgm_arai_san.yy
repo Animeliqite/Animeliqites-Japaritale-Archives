@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgm_arai_san",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":1,
+  "conversionMode":0,
+  "duration":32.02084,
+  "name":"bgm_arai_san",
+  "parent":{
+    "name":"BGM",
+    "path":"folders/Sounds/BGM.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgm_arai_san.ogg",
+  "type":1,
+  "volume":1.0,
+}

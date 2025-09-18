@@ -1,0 +1,4 @@
+"setup.text.header"					"(CONFIGURACIÓN POR PRIMERA VEZ)"
+"setup.text.on"						"ON"
+"setup.text.off"						"OFF"
+"setup.text.continue"					"Continuar"

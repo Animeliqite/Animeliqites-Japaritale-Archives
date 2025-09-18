@@ -1,0 +1,2 @@
+Anim_Create(id,"image_angle",ANIM_TWEEN.SINE,ANIM_EASE.OUT,_dir-270,_dir,15,0,-1,-1,ANIM_MODE.ONESHOT,false);
+Anim_Create(id,"y",ANIM_TWEEN.SINE,ANIM_EASE.OUT,y,-10*dsin(_dir),15,0,-1,-1,ANIM_MODE.ONESHOT,true);

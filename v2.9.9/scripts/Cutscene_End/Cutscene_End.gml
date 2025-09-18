@@ -1,0 +1,14 @@
+// This script ends the cutscene
+function Cutscene_End(order_to_check) {
+	if (cutscene._current_order == order_to_check) || (order_to_check == -1) {
+		global._gmu_cutscene = false; // Stop the cutscene
+	
+		// Reset the variables
+		if(instance_exists(char_player))
+			char_player._moveable_cutscene=true;
+		with (cutscene) {
+			_current_order = -9999;
+			_sleep_timer = 0;
+		}
+	}
+}

@@ -1,0 +1,123 @@
+function Macro_Flag() {
+	enum FLAG_TYPE{
+		STATIC,
+		DYNAMIC,
+		TEMP,
+		INFO,
+		SETTINGS,
+		DEMO
+	};
+
+#region static
+	enum FLAG_STATIC{
+		NAME,
+		LV,
+		HP_MAX,
+		HP,
+		ATK,
+		ATK_ITEM,
+		DEF,
+		DEF_ITEM,
+		SPD,
+		SPD_ITEM,
+		INV,
+		INV_ITEM,
+		EXP,
+		GOLD,
+		ITEM,
+		ITEM_END=FLAG_STATIC.ITEM+8-1,
+		ITEM_WEAPON,
+		ITEM_ARMOR,
+		PHONE,
+		PHONE_END=FLAG_STATIC.PHONE+8-1,
+		BATTLE_MENU_FIGHT_OBJ,
+		PLOT,
+		MURDUR_LV,
+		KILLS,
+		ROOM,
+		TIME,
+		BOX,
+		BOX_END=FLAG_STATIC.BOX+20-1,
+		SCENE_001,
+		SCENE_002,
+		SCENE_003,
+		SCENE_004,
+		CAN_RUN,
+		SCENE_005,
+		FOUGHT_CELLIEN,
+		SCENE_006,
+		USERNAME,
+		SCENE_007,
+		SCENE_008,
+		SCENE_009,
+		SCENE_010,
+		SCENE_009_0,
+		SCENE_WAKEUP,
+		SCENE_011,
+		SCENE_012,
+		SCENE_013,
+		CHAPTER,
+		HESITATION,
+		GIVEN_EGG_001,
+		ITEM_TOOL,
+		ITEM_TOOL_END=FLAG_STATIC.ITEM_TOOL+8-1,
+		ITEM_KEY,
+		ITEM_KEY_END=FLAG_STATIC.ITEM_KEY+8-1,
+		SCENE_007_0,
+		SCENE_007_1,
+		SCENE_003_1,
+		SCENE_002_1,
+		SCENE_003_2
+	};
+#endregion
+
+#region dynamic
+	enum FLAG_DYNAMIC{
+	};
+#endregion
+
+#region temp
+	enum FLAG_TEMP{
+		FUN,
+		SAVE_SLOT,
+		ENCOUNTER,
+		BATTLE_ROOM_RETURN,
+		GAMEOVER_SOUL_X,
+		GAMEOVER_SOUL_Y,
+		TRIGGER_WARP_LANDMARK,
+		TRIGGER_WARP_DIR,
+		TEXT_TYPER_CHOICE,
+		FRAME_SKIP,
+		MINIMALIZED_BATTLE_UI,
+		HAD_CONVERSATION,
+		MUSICLOGO_SHOWN_001
+	};
+#endregion
+
+#region info
+	enum FLAG_INFO{
+		NAME,
+		LV,
+		TIME,
+		ROOM,
+		USERNAME
+	};
+#endregion
+
+#region settings
+	enum FLAG_SETTINGS{
+		LANGUAGE,
+		GAMEPAD_CONFIRM,
+		GAMEPAD_CANCEL,
+		GAMEPAD_MENU
+	};
+#endregion
+
+#region demo
+	enum FLAG_DEMO{
+		DATA
+	};
+#endregion
+
+
+}

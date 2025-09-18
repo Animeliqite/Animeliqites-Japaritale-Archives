@@ -1,0 +1,8 @@
+"intro.0"			"Saludos, compañero&visitante.{sleep 280}{event 0}"
+"intro.1"			"Antes de que empieces&tu aventura, hay algo&que debo contarte.{sleep 280}{event 0}"
+"intro.2"			"Por favor sientate y&pon atención, ya que&esto es muy importante.{sleep 280}{event 0}"
+"intro.3"			"No deberías perderte&esto.{sleep 320}{event 0}"
+"intro.4"			"Japari Park es un&zoologico de maravillas y&sueños, donde todos viven&felizmente despues.{sleep 320}{event 0}"
+"intro.5"			"Aunque los enemigos&han existido a lo largo&de todos estos años,&esos malos tiempos se&mantuvieron bajos.{sleep 320}{event 0}"
+"intro.6"			"Y cada década, nacen&nuevas AMIGAS con el&poder de la SANDSTAR,&junto con anomalías...{sleep 320}{event 0}"
+"intro.7"			"Y... ¿quizás{event 1} un humano&por una rara casualidad?{sleep 800}{event 2}"

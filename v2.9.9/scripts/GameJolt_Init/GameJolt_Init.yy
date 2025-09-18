@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GameJolt_Init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GameJolt_Init",
+  "parent":{
+    "name":"GameJolt",
+    "path":"folders/GameJolt.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
